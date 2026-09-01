@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image to PPT Studio"
+  short_description: "图片转严格可编辑PPT，失败自动手工重建并替换SVG图标"
+  default_prompt: "Use $image-to-ppt-studio to convert this image into a strictly verified editable PowerPoint."
